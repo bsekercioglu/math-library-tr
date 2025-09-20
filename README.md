@@ -485,7 +485,7 @@ python -c "from modules.trigonometri import trigonometrik_hesapla; print(trigono
 
 - **🐛 Hata Bildirimi**: GitHub Issues
 - **💡 Özellik İsteği**: GitHub Discussions
-- **📧 İletişim**: [Email]
+- **📧 İletişim**: bsekercioglu@gmail.com
 - **📖 Dokümantasyon**: Bu README dosyası
 
 ## 📝 Lisans
